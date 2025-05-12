@@ -14,6 +14,6 @@ We appreciate your feedback and contributions! To report an issue, please follow
    - Your environment (OS, browser, etc.)
 
 ## Contact
-If you have any questions or need further assistance, please contact us at hassanquec@gmail.com
+If you have any questions or need further assistance, please contact us at hassan.mallah@quectel.com
 
 Thank you for helping us improve our extension!
